@@ -78,4 +78,6 @@ Run any module:
 
 python kpi_summary.py
 python sales_by_category.py
+python branch_analysis.py
+python time_analysis.py
 ```
